@@ -1,0 +1,11 @@
+speech_recognition
+easyimap 
+smtplib
+imaplib
+email
+playsound
+gTTs
+googletrans
+tkinder
+customtkinter
+pillow
